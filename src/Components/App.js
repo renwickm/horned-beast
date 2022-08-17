@@ -9,7 +9,7 @@ function App() {
 
     <div>
         <Header title="Code 301 Lab 1"/>
-        <Main/>
+        <Main title="Horned Beasts"/>
         <Footer title="Matthew Renwick"/>
     </div>
   );

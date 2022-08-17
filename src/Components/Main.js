@@ -9,7 +9,7 @@ class Main extends React.Component {
   render () {
     return (
       <main>
-
+        <h2>{this.props.title}</h2>
       </main>
     )
   }
